@@ -6,7 +6,7 @@ This python program converts text to morse code. It further uses selenium to hel
 
 ## Requirements
 
-[selenium]
+<b>selenium</b> -> `pip install selenium`
 
 [chromedriver-binary==96.0.4664.18.0]
 
