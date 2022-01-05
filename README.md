@@ -7,6 +7,7 @@
 ### Requirements
 
 [selenium]
+
 [chromedriver-binary==96.0.4664.18.0]
 
 
