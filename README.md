@@ -8,6 +8,7 @@ This python program converts text to morse code. It further uses selenium to hel
 
 <b>selenium</b> -> `pip install selenium`
 
-[chromedriver-binary==96.0.4664.18.0]
+<b>chromedriver-binary==96.0.4664.18.0</b> -> `pip uninstall chromedriver_binary<br>
+pip install chromedriver-binary==96.0.4664.18.0`
 
 
