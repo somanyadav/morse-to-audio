@@ -10,7 +10,7 @@ Download the above code as a ZIP file. Unzip it on Desktop. Write the following 
 
 `cd Desktop`
 
-`cd morse-to-audio-master`
+`cd morse-to-audio-main`
 
 `pip install -r requirements.txt`
 
