@@ -6,6 +6,12 @@ This python program converts text to morse code. It further uses selenium to hel
 
 ## Installation
 
+Download the above code as a ZIP file. Unzip it on Desktop. Write the following code in your command prompt (on Windows).
+
+`cd Desktop`
+
+`cd morse-to-audio-master`
+
 `pip install -r requirements.txt`
 
 ## Requirements
